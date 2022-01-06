@@ -52,12 +52,7 @@ header{
 } 
 img{
 
-/* width: 172px;
-height: 200px;
-margin-right: 50px;
-object-position: center;  para centrar imagenes 
-   object-fit: cover;  para que no se deformen las imagenes 
-border-radius: 100px; */
+
 width: 200px; 
 height: 200px; 
 border-radius: 50%; 
