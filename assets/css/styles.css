@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+}
+    body{
+           background-color: #982929 ;
+}
+h1{
+    position: absolute;
+    width: 350px;
+    height: 30px;
+    left: 320px;
+    top: 105px;
+    font-family: Quando;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+    color: white;
+    border: 3px solid #999;
+    
+}
+.h4{
+    color: white;
+}
+h4{ 
+    position: relative;
+    width: 50px;
+    left: 500px;
+    top: -50px;
+    font-family: Quando;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    /* line-height: 30px; */
+    color: white;
+    border: 3px solid #999;}
+p{
+    text-align: center;
+   
+}
+header{
+    border: 1px solid black;
+    width: 100%;
+    height: 210px;
+   background-color: rgb(210, 233, 203);
+ background-image: url(/assets/img/fondo.jpg); 
+}
+  .pa{
+    text-align: left;
+    
+    
+} 
+img{
+
+/* width: 172px;
+height: 200px;
+margin-right: 50px;
+object-position: center;  para centrar imagenes 
+   object-fit: cover;  para que no se deformen las imagenes 
+border-radius: 100px; */
+width: 200px; 
+height: 200px; 
+border-radius: 50%; 
+margin-left: 5px; 
+margin-block: 10px;  
+object-position: center; /* para centrar imagenes */
+object-fit: cover; /* para que no se deformen las imagenes */
+
+}
+
+  
+
+
+
+.contenido{
+    width: 100%;
+    height: 200px;
+    margin-top:45px;
+    
+    
+}
+.contenido1{
+    width: 100%;
+    height: 190px;
+    margin-top: 50px;
+     
+}
+.contenido2{
+        width: 100%;
+        margin-top: 40px;
+        height: 200px;
+}
+
+
+.uno{
+width: 290px;
+height: 201px;
+left: 72px;
+box-shadow: -5px 5px 10px black;
+background: #F4EAD5;
+border: 1px solid #000000;
+margin-left: 72px;
+margin-bottom: 40px;
+ font-size: 15px; 
+float: left;
+ border-radius: 10px; 
+}
+.dos{width: 500px;
+    height: 1 110px;
+    border: 1px solid #000000;
+    background: #F4EAD5;
+    margin-right: 60px;
+    font-size: 10px;
+    float: right;
+    border-radius: 10px;
+    box-shadow:  -5px 5px 10px black;
+} 
+
+.tres{
+        width: 211px;
+        height: 180px;
+        left: 72px;
+        box-shadow:  -5px 5px 10px black;
+        background: #F4EAD5;
+        border: 1px solid #000000;
+        margin-left: 72px;
+        margin-bottom: 40px; 
+        font-size: 10px;
+        float: left; 
+        border-radius: 10px;
+}
+.cuatro{
+    width: 500px;
+    height: 180px;
+    border: 1px solid #000000;
+    background: #F4EAD5;
+    font-size: 10px;
+    margin-right: 60px;
+    float: right; 
+    border-radius: 10px;
+    box-shadow:  -5px 5px 10px black;
+}
+.cinco{
+    width: 211px;
+    height: 201px;
+    left: 72px;
+    background: #F4EAD5;
+    border: 1px solid #000000;
+    margin-left: 72px;
+    margin-bottom: 40px;
+    font-size: 10px;
+    float: left;   
+    border-radius: 10px;
+    box-shadow:  -5px 5px 10px black;
+}
+.seis{
+    width: 500px;
+    height: 110px;
+    border: 1px solid #000000;
+    background: #F4EAD5;
+    font-size: 10px;
+     margin-right: 60px;
+    float: right;   
+    border-radius: 10px; 
+   
+    box-shadow:  -5px 5px 10px black;
+}
+.fa-github-square {
+ 
+    color: black;
+}
+
+
+
